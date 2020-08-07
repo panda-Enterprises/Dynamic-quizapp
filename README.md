@@ -10,3 +10,4 @@
 * Dismiss-able notifications/alerts
 * Forms and multiple choice answers can be submitted with the ```enter``` key
 * Checks that all text inputs and radio buttons have been entered/selected before submission of quiz
+This app will be usedul for you allif you wanna conduct any quiz among your friends and see who's the best
